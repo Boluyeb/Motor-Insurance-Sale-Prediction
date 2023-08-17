@@ -1,1 +1,4 @@
 # Motor-Insurance-Sale-Prediction
+In this case study, I have extensively explored the motor insurance dataset, performed data preprocessing, and conducted insightful data analysis. I have employed various techniques, algorithms, and visualizations to gain a comprehensive understanding of the data and extract meaningful insights. Through careful feature engineering, including the creation of age groups and combined driver experience, I have effectively captured relevant patterns and behaviors that may influence insurance sales.
+
+For the predictive modeling task, I have utilized the Gradient Boosting Classifier, Support Vector Classifier, Random Forest Classifier, Logistic Regression, and Decision Tree Classifier algorithms. Each algorithm was evaluated based on precision, recall, F1-score, and accuracy metrics. The results, along with visualizations, are presented in this Jupyter notebook.
